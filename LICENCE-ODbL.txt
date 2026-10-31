@@ -1,0 +1,7 @@
+Données dérivées d'OpenStreetMap — © les contributeurs d'OpenStreetMap
+
+Ces données sont mises à disposition sous l'Open Database License (ODbL) 1.0.
+Texte complet : https://opendatacommons.org/licenses/odbl/1-0/
+Informations : https://www.openstreetmap.org/copyright
+
+Les populations et noms de communes de zones-urbaines.js viennent de l'INSEE (Licence Ouverte / Open Licence 2.0 d'Etalab).
