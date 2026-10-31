@@ -1,0 +1,1 @@
+window.DETAIL_CELLULES=window.DETAIL_CELLULES||{};window.DETAIL_CELLULES["1006_718"]=";iiq_Hbh{QuHoHkGiGUQIIOGOEa@Gg@KgAQu@O[Ki@Yc@[\n;ynr_HdozQtAvDj@~AFT@hABdAE~@Iz@BPRV\\XdBbCJZGZa@Po@Rg@^y@~@a@\\CPJFVSn@[h@OVC`@XVJpAMTI\n2}`r_Hfm{QfC|@\n2agr_Hj`{QV`@\\|@p@j@PZNZF\\J|@?VDRBNBP@BJRJH\n2{`r_Hzl{QdChA\n2ulr_H~o{QHBREh@OVM`@OXGF?t@@|@K^GHGDELEL@RB\n";
